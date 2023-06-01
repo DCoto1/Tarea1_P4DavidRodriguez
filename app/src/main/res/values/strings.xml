@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TareaConstraintLayout</string>
+    <string name="nombre">Nombre</string>
+    <string name="primer_apellido">Primer Apellido</string>
+    <string name="gustavo">Gustavo</string>
+    <string name="david">David</string>
+    <string name="rodr_guez">Rodríguez</string>
+    <string name="tel_fono">Teléfono</string>
+    <string name="segundo_apellido">Segundo Apellido</string>
+    <string name="coto">Coto</string>
+    <string name="_72896071">72896071</string>
+</resources>
